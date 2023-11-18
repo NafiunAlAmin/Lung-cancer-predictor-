@@ -1,1 +1,1 @@
-# Lung-cancer-predictor-
+This project calculates the accuracy score, recall score and precision score by using models like Random Forest, Logistic Regression and Nueral Networks and KNN. The data is visualized by using Correlation Matrix, confusion matrix and bar charts for each of the models for precison, recall and accuracy scores.
